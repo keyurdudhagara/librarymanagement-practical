@@ -65,3 +65,10 @@ php artisan migrate --seed
 
 
 and searve project
+
+
+##  Postman Collection
+
+api end points is provided in below file 
+
+📁 File: `/Postman/Library management.postman_collection.json`
