@@ -14,6 +14,6 @@ class BookBorrowedEvent
 
     public function __construct(Borrow $borrow)
     {
-        $this->borrow = $borrow;
+         $this->borrow = $borrow;
     }
 }
